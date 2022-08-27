@@ -1,0 +1,17 @@
+body{
+    background-color: #292929;
+}
+h1{
+    size: 3cm;
+    color: lightgray;
+}
+h2{
+    color: lightgray;
+    size: 2cm;
+}
+.morons{
+    font-size: 5cm;
+}
+.text{
+    text-transform: capitalize;
+}
